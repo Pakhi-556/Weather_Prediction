@@ -1,8 +1,10 @@
-Weather Forecasting/Prediction using Python and Machine Learning
+Weather Forecasting/Prediction using Python and Machine Learning:
+
 Welcome to the Weather Prediction project! In this repository, we leverage Python libraries and machine learning techniques to analyze the dataset. The goal is to gain insights and predictions from the provided dataset.
 
 
-Introduction
+Introduction:
+
 This project focuses on analyzing weather  data using Python's data manipulation libraries and machine learning algorithms. We aim to uncover patterns, relationships, and predict fare amounts based on the provided 0dataset.
 
 
